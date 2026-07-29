@@ -4,5 +4,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.typeEvaluation.deprecateTypingAliases": true,
     "cursorpyright.analysis.diagnosticMode": "workspace",
-    "cursorpyright.analysis.typeCheckingMode": "basic"
+    "cursorpyright.analysis.typeCheckingMode": "basic",
+    "liveServer.settings.port": 5501
 }
